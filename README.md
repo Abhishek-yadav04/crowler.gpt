@@ -114,6 +114,29 @@ Use this option for API access to your generated knowledge that you can integrat
 
 Know how to make this project better? Send a PR!
 
-## Contributions
+## 👨‍💻 Author
 
-This project is maintained by Abhishek Yadav. Feel free to contribute or report issues on [GitHub](https://github.com/Abhishek-yadav04/crowler.gpt).
+<p align="center">
+  <img src="https://github.com/Abhishek-yadav04.png" width="100px" style="border-radius: 50%;" alt="Abhishek Yadav" />
+</p>
+
+<p align="center">
+  <b>Abhishek Yadav</b><br>
+  Computer Science Student
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abhishek-yadav04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Star this repo if you find it helpful!</b>
+</p>
+
+<p align="center">
+  Made with ❤️ by Abhishek Yadav
+</p>
